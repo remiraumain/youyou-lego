@@ -16,7 +16,6 @@ function Experience() {
   });
   return (
     <>
-      <color attach="background" args={["#15151a"]} />
       <OrbitControls />
       <ambientLight intensity={0.5} />
       <hemisphereLight intensity={0.5} />
